@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello meryem");
         System.out.println("Hello seher");
         // work 1
+        //seher
     }
 }
